@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [CustomGridLocalizer.cs](./CS/CustomGridResourceText/CustomGridLocalizer.cs) (VB: [CustomGridLocalizer.vb](./VB/CustomGridResourceText/CustomGridLocalizer.vb))
-* [MainWindow.xaml](./CS/CustomGridResourceText/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomGridResourceText/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/CustomGridResourceText/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomGridResourceText/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/CustomGridResourceText/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomGridResourceText/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to substitute grid messages with custom strings
