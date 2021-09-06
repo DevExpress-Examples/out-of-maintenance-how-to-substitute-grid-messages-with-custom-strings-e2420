@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGridResourceText", "CustomGridResourceText\CustomGridResourceText.csproj", "{AFAF6CF4-7EA8-4C49-9336-DA4BE922C21D}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGridResourceText", "CustomGridResourceText\CustomGridResourceText.Net5.csproj", "{AFAF6CF4-7EA8-4C49-9336-DA4BE922C21D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
